@@ -1,0 +1,16 @@
+Ex 1 : crack the MD5 hash located in exo1.hash file.
+
+
+Ex 2 : crack the different types hashes located in exo2_X.hash files, you can use the binary hashid to determine the type of hash.
+
+
+Ex 3 : find the JWT secret of the JWT located in exo3.jwt file, modify his content and verify if the signature is still good (you can use scripts located in the Scripts/ directory)
+
+
+Ex 4 : crack protected files (flag.zip and cyber.kdbx located in Files/ directory) with John and Hashcat
+
+
+Bonus :
+
+Ex 5 : recover and crack the passwords of the users present in /etc/password and /etc/shadow files
+Ex 6 : Mr. Doe is using a version of KeePass vulnerable to CVE-2023-32784, you have a dump of his software Files/KeePass.DMP and his database Files/KeePass.kdbx, find a way to open his database. Orange is your friend :)
