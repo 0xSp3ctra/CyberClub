@@ -8,5 +8,5 @@ Ex 4 : crack protected files (flag.zip and cyber.kdbx located in Files/ director
 
 Bonus :
 
-Ex 5 : recover and crack the passwords of the users present in /etc/password.bak and /etc/shadow.bak files
+Ex 5 : During a pentest, you have dumped the /etc/password and /etc/shadow files of a Linux target, recover and crack the passwords localy of the users present in /etc/password.bak and /etc/shadow.bak files
 Ex 6 : Mr. Doe is using a version of KeePass vulnerable to CVE-2023-32784, you have a dump of his software located in Files/KeePass.DMP and his database Files/KeePass.kdbx, find a way to open his database. Orange-Cyberdefense is your friend :)
