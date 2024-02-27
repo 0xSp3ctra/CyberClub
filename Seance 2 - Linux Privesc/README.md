@@ -32,3 +32,4 @@ https://mikadmin.fr/blog/linux-privilege-escalation-python-library-hijacking/
 https://medium.com/analytics-vidhya/python-library-hijacking-on-linux-with-examples-a31e6a9860c8
 https://synfin.net/papers/nmap-suid.txt
 https://github.com/Anon-Exploiter/SUID3NUM
+https://gtfobins.github.io/
